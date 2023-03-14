@@ -9,6 +9,7 @@
 
 body{
 
+
 margin: 0px;
 padding: 0px;
 
@@ -41,6 +42,7 @@ color: blueviolet;
     display: flex;
     flex-direction:column;
     align-self: center;
+    text-align: center;
 }
 
 input[type = number] {
